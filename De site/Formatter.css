@@ -1,0 +1,26 @@
+.jumbotron{
+  max-height: 170px;
+  background-color: rgb(233, 167, 145);
+  margin-bottom:0;padding-bottom: 1rem; padding-top: 1rem;
+}
+
+.btn{
+  background-color: rgb(233, 167, 145);
+}
+
+div.sticky{
+  position:sticky;
+  top: 0;
+}
+
+.container{
+  margin-top: 30px;
+}
+
+.carousel-inner img {
+  width: 100%;
+  height: 100%;
+}
+
+
+
